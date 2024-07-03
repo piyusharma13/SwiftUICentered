@@ -2,7 +2,7 @@
 // https://docs.swift.org/swift-book
 import SwiftUI
 
-extension View{
+extension View {
     
     public func alignViewToCenterInHierarchy() -> some View
     {
